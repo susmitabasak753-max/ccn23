@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::view('/', 'welcome')->name('home');
+Route::view('/', 'travel.home')->name('home');
 
 // Travel Agency Pages
 Route::view('/travel', 'travel.home')->name('travel.home');
