@@ -326,7 +326,7 @@
                 <h3>{{ $d['name'] }}</h3>
                 <p>{{ $d['desc'] }}</p>
                 <div class="dest-footer">
-                    <div class="dest-price">From ${{ $d['price'] }} <small>/ person</small></div>
+                    <div class="dest-price">From ৳{{ $d['price'] }} <small>/ person</small></div>
                     <a href="{{ route('travel.contact') }}" class="dest-link">Book Now →</a>
                 </div>
             </div>
