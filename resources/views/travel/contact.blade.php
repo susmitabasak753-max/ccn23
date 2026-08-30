@@ -315,11 +315,11 @@
                             <label for="budget-select">Approx. Budget</label>
                             <select id="budget-select" name="budget">
                                 <option value="">Select range...</option>
-                                <option>Under $1,000</option>
-                                <option>$1,000 – $2,500</option>
-                                <option>$2,500 – $5,000</option>
-                                <option>$5,000 – $10,000</option>
-                                <option>$10,000+</option>
+                                <option>Under ৳1,000</option>
+                                <option>৳1,000 – ৳2,500</option>
+                                <option>৳2,500 – ৳5,000</option>
+                                <option>৳5,000 – ৳10,000</option>
+                                <option>৳10,000+</option>
                             </select>
                         </div>
                     </div>

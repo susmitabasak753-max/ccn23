@@ -302,7 +302,7 @@
         <div class="price-card">
             <div class="price-tier">Explorer</div>
             <h3>Essentials Pack</h3>
-            <div class="price-amount">$999</div>
+            <div class="price-amount">৳999</div>
             <div class="price-period">per person / week</div>
             <ul class="price-features">
                 <li>Economy Class Flights</li>
@@ -318,7 +318,7 @@
             <div class="popular-badge">Best Value</div>
             <div class="price-tier">Premium</div>
             <h3>Signature Pack</h3>
-            <div class="price-amount">$2,499</div>
+            <div class="price-amount">৳2,499</div>
             <div class="price-period">per person / week</div>
             <ul class="price-features">
                 <li>Business Class Flights</li>
@@ -334,7 +334,7 @@
         <div class="price-card">
             <div class="price-tier">Ultra Luxury</div>
             <h3>Elite Pack</h3>
-            <div class="price-amount">$5,999</div>
+            <div class="price-amount">৳5,999</div>
             <div class="price-period">per person / week</div>
             <ul class="price-features">
                 <li>First Class / Private Jet</li>
